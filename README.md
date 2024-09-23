@@ -1,8 +1,10 @@
 
+```markdown
 # Шпаргалка по использованию Git
 
 ## Настройка Git
 
+```bash
 # Установить имя пользователя
 git config --global user.name "Ваше Имя"
 
@@ -11,6 +13,7 @@ git config --global user.email "your.email@example.com"
 
 # Проверить текущие настройки
 git config --list
+```
 
 ## Основные команды
 
@@ -208,5 +211,4 @@ git config --global alias.cm commit
 - [Официальная документация Git](https://git-scm.com/doc)
 - [Pro Git книга (на русском)](https://git-scm.com/book/ru/v2)
 ```
-
 
